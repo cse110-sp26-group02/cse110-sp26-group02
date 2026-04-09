@@ -10,7 +10,7 @@ This charter serves as a foundational document to guide our team's collaboration
 
 ### Our Mission
 *Why are we engaging in this project? What unique value do we intend to bring?*
-> We hope to familarize ourselves with the SWE process of working in a team enviornment. Beyond simple motivations like achieving an excellent grade or building our resumes, we all truly desire to get the most out of this course project by strengthening our technical and people skills for the advancement of our future careers. Unlike other teams we our serious about our work because we want to learn the most and view this project as a glimpse of what is to come for our futures.
+> We hope to familarize ourselves with the SWE process of working in a team enviornment. Beyond simple motivations like achieving an excellent grade or building our resumes, we all truly desire to get the most out of this course project by strengthening our technical and people skills for the advancement of our future careers. We are serious about our work because we want to learn the most and view this project as a glimpse of what is to come for our futures.
 
 ### Project Goals
 *What outcomes or milestones does the team aim to achieve together?*
@@ -55,7 +55,7 @@ This charter serves as a foundational document to guide our team's collaboration
 - **[Role]:** [Justine Le]
 - **[Role]:** [Mani Schabani-Qassri]
 - **[Role]:** [Paul Montal]
-- **[Role]:** [Sahil Dahal]
+- **[Role]:** [Sahil Dalal]
 - **[Role]:** [Scott Pham]
 - **[Role]:** [Sophia Ali]
 
