@@ -10,29 +10,31 @@ This charter serves as a foundational document to guide our team's collaboration
 
 ### Our Mission
 *Why are we engaging in this project? What unique value do we intend to bring?*
-> [Your team's mission statement here.]
+> We hope to familarize ourselves with the SWE process of working in a team enviornment. Beyond simple motivations like achieving an excellent grade or building our resumes, we all truly desire to get the most out of this course project by strengthening our technical and people skills for the advancement of our future careers. Unlike other teams we our serious about our work because we want to learn the most and view this project as a glimpse of what is to come for our futures.
 
 ### Project Goals
 *What outcomes or milestones does the team aim to achieve together?*
-- **Goal 1:** [Description]
-- **Goal 2:** [Description]
-- **Goal 3:** [Description]
+- **Goal 1:** Learn and familiarize ourselves with the SWE process
+- **Goal 2:** Be proud of our work
+- **Goal 3:** Build technical and people skills
 
 ### Personal Goals
 *What do you individually hope to achieve with this project? How can this project help your personal development?*
-- **[Team Member 1]:** [Personal goals]
-- **[Team Member 2]:** [Personal goals]
-- **[Team Member 3]:** [Personal goals]
-- **[Team Member 4]:** [Personal goals]
-- **[Team Member 5]:** [Personal goals]
+- **[Personal Goal 1]:** Get better at Web Development
+- **[Personal Goal 2]:** Improve communication skills
+- **[Personal Goal 3]:** Achieve an excellent grade that reflects work
+- **[Personal Goal 4]:** Be on time
+- **[Personal Goal 5]:** Becoming more organized and structured
 
 ---
 
 ## 2. Core Values and Principles
 *What core values and guiding principles will our team uphold?*
-- **Value 1:** [e.g., Respect, Open Communication, etc.]
-- **Value 2:** [Description]
-- **Value 3:** [Description]
+- **Value 1:** Availability and Reachbility
+- **Value 2:** Accountability
+- **Value 3:** Effort
+- **Value 4** Focus on Priorities
+- **Value 5** Open-Mindedness (allow for constructive criticism)
 
 ---
 
@@ -40,16 +42,22 @@ This charter serves as a foundational document to guide our team's collaboration
 
 ### Team Strengths and Weaknesses
 *What strengths and unique skills does each member bring? What are our collective weaknesses and how can we address them?*
-- **Strengths:** [List key strengths]
-- **Weaknesses:** [List areas for improvement and strategies to address them]
+- **Strengths:** Python, React.js, JavaScript, Markdown, HTML and CSS, C++, Video Editing (Final Cut/ iMovie)
+- **Weaknesses:** We acknowledged areas we have the less experience in: QA Testing, Consistent Documentation. We agree that we must be willing to learn these skills and will come to these situations with that mindset. We also will remind ourselves of our values, collaborate, and work together in these moments to acomplish these tasks.
 
 ### Roles
 *Clearly specify roles within the team. Account for logistical responsibilities.*
-- **[Role 1, e.g., Project Manager]:** [Member Name(s)] - [Brief description of responsibilities]
-- **[Role 2, e.g., Lead Developer]:** [Member Name(s)] - [Brief description of responsibilities]
-- **[Role 3, e.g., UI/UX Designer]:** [Member Name(s)] - [Brief description of responsibilities]
-- **[Role 4, e.g., QA/Tester]:** [Member Name(s)] - [Brief description of responsibilities]
-- **Meeting Facilitator/Note Taker:** [Rotation schedule or assigned member]
+- **[Role]:** [Abdurrahman Syed]
+- **[Role]:** [Andrew Le]
+- **[Role]:** [Andre Stransky]
+- **[Role]:** [Gurnoor Bola]
+- **[Role]:** [Jason Wang]
+- **[Role]:** [Justine Le]
+- **[Role]:** [Mani Schabani-Qassri]
+- **[Role]:** [Paul Montal]
+- **[Role]:** [Sahil Dahal]
+- **[Role]:** [Scott Pham]
+- **[Role]:** [Sophia Ali]
 
 ---
 
@@ -57,15 +65,15 @@ This charter serves as a foundational document to guide our team's collaboration
 
 ### Availability and Expectations
 *Clarify what you need from one another to succeed. Discuss individual availability and schedules.*
-- **General Availability:** [e.g., Weekday evenings, specific times to avoid]
-- **Expected Time Commitment:** [e.g., X hours per week]
-- **Response Time:** [e.g., Expected response time for Slack/email messages]
+- **General Availability:** Discussion times (Mon) and lab times (Wed) are baseline for meetings. Depending on deadlines, further meetings can be scheduled (weekends). We will use When2Meet.
+- **Expected Time Commitment:** We should commit at least 4 hours a week.
+- **Response Time:** As promptly as possible, no later than a day to respond.
 
 ### Communication
 *Define your team's communication strategies.*
-- **Primary Channel:** [e.g., Slack for daily communication]
-- **Secondary Channel:** [e.g., Email for formal documentation]
-- **Meetings:** [e.g., Weekly on Day at Time, with agendas sent out beforehand]
+- **Primary Channel:** Slack
+- **Secondary Channel:** Email
+- **Meetings:** Once a week (1hr), baseline will be discussion times (Mon) and lab times (Wed)
 
 ---
 
@@ -73,11 +81,11 @@ This charter serves as a foundational document to guide our team's collaboration
 
 ### Conflict Resolution
 *Discuss your conflict resolution process.*
-1. **Step 1:** [e.g., Direct communication between the involved parties.]
-2. **Step 2:** [e.g., Mediation with a neutral team member.]
-3. **Step 3:** [e.g., Full team discussion to reach a consensus.]
+
+- **Step 1.** Direct **communication** with involved parties
+- **Step 2.** Hold full team discussion to reach a consensus
 
 ### Ensuring Fair Contribution
 *Outline the approach to ensuring fair and equal contributions from all team members. Define how to address situations where group "rules" are not being followed.*
-- **Tracking:** [e.g., Using GitHub Projects/Issues to track tasks and workload.]
-- **Addressing Issues:** [e.g., If a member is not contributing, the team will first have a private conversation to understand the situation. If the issue persists, it will be addressed following the conflict resolution steps.]
+- **Tracking:** We will all communicate with one another in our meetings ane be active in Slack channels to discuss our work
+- **Addressing Issues:** The team will first have a conversation/meeting to understand the situation. If the issue persists, it will be addressed following the conflict resolution steps
