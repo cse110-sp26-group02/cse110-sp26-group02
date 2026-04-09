@@ -3,7 +3,7 @@
 > [A quote that represents the team]
 
 ## Our Name
-[Explain team name here.]
+"SWEaters United" represents our great group of hard working and well-coordinated software engineers (SWEs). 
 
 ## Branding
 
@@ -22,7 +22,7 @@
 
 | Photo | Name | Overview | GitHub |
 | :---: | --- | --- | --- |
-| <img src="[link_to_photo]" width="100"> | [Member 1 Name] | [Overview of the team member, their skills, and interests.] | [Link to GitHub Page] |
+| <img src="[link_to_photo]" width="100"> | Andre Stransky | Senior, Math-CS, Initial Sub-Team = Branding | 2astar6 |
 | <img src="[link_to_photo]" width="100"> | [Member 2 Name] | [Overview of the team member, their skills, and interests.] | [Link to GitHub Page] |
 | <img src="[link_to_photo]" width="100"> | [Member 3 Name] | [Overview of the team member, their skills, and interests.] | [Link to GitHub Page] |
 | <img src="[link_to_photo]" width="100"> | [Member 4 Name] | [Overview of the team member, their skills, and interests.] | [Link to GitHub Page] |
