@@ -55,10 +55,10 @@
     *   *Discussion:*
         * Began discussing contract details (goals, values, rules)
         * Goals
-          * Personal goals include improving web developement skills, working in a team enviornment, and familarizing ourselves with SWE process. We also highlighted our interests in achieving a good grade, building resumes, and practicing communication.
+          * Personal goals include improving web development skills, working in a team environment, and familiarizing ourselves with SWE process. We also highlighted our interests in achieving a good grade, building resumes, and practicing communication.
           * Common goals include achieving an excellent grade in the class (A), utilizing our time efficiently (at least 1 meeting a week), and meeting deadlines.
         * Values
-          * We value availability and taking acountability. Also giving our full efforts, being open to constructive criticism, and focusing on priorities. We also value organization and structure in our team.
+          * We value availability and taking accountability. Also giving our full efforts, being open to constructive criticism, and focusing on priorities. We also value organization and structure in our team.
         * Branding
           * Brand Team: Jason, Andre
           * Page: Scott
@@ -71,11 +71,11 @@
         * Weaknesses
           * We focused on our strengths rather than our weaknesses, however other skills like QA (quality assurance) and organized documentation could be something we can all each learn more of.
         * Roles
-          * We have more to discuss when we know more about our project. However we listed roles such as Backend developement, Frontend, Design, QA, Secretary, Github Admin, and Project Manager/Lead
+          * We have more to discuss when we know more about our project. However we listed roles such as Backend development, Frontend, Design, QA, Secretary, Github Admin, and Project Manager/Lead
 
 *   **Topic 3:** Group Contract (Rules and Expectations)
     *   *Discussion:* We began discussing some rules and expectations of our team.
-        * We will meet once a week; acknowledgeing base time will be either discussion time (Mon) or lab times (Wed). Depending on deadlines, we can be more dynamic and schedule more meetings if needed.
+        * We will meet once a week; acknowledging base time will be either discussion time (Mon) or lab times (Wed). Depending on deadlines, we can be more dynamic and schedule more meetings if needed.
         * Primarily use Slack as our form of communication
         * Our Work Process: Meeting (discuss what we each worked on from last meeting and ask questions) -> Assignments (work on our assigned tasks given in meetings, collaborating with our specific partners on the task), Complete Assignments (keep deadline and values of effort and priorities in mind)
         * Being consistent with our work
@@ -89,7 +89,7 @@
 
 
 *   **Topic 5:** Branding
-    *   *Discussion:* We begain discussing the Branding Assigment and started assigning roles to complete it
+    *   *Discussion:* We began discussing the Branding Assignment and started assigning roles to complete it
           * Brand Team: Jason, Andre, Sahil
           * Page: Scott, Sophia, Gurnoor, Abdurrahman
           * Video: Mani, Paul, Justine, Andrew
@@ -98,14 +98,14 @@
 
 ## Items Not Yet Discussed / Postponed
 
-*   Specific Role Assigments (need to know more about project)
+*   Specific Role Assignments (need to know more about project)
 
 ---
 
 ## Decisions Made
 
 * Group Name is SWEaters United
-* Branding assnigment roles
+* Branding assignment roles
    * Brand Team: Jason, Andre, Sahil
    * Page: Scott, Sophia, Gurnoor, Abdurrahman
    * Video: Mani, Paul, Justine, Andrew
