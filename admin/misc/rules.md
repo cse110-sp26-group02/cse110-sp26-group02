@@ -43,21 +43,21 @@ This charter serves as a foundational document to guide our team's collaboration
 ### Team Strengths and Weaknesses
 *What strengths and unique skills does each member bring? What are our collective weaknesses and how can we address them?*
 - **Strengths:** Python, React.js, JavaScript, Markdown, HTML and CSS, C++, Video Editing (Final Cut/ iMovie)
-- **Weaknesses:** We acknowledged areas we have the less experience in: QA Testing, Consistent Documentation. We agree that we must be willing to learn these skills and will come to these situations with that mindset. We also will remind ourselves of our values, collaborate, and work together in these moments to acomplish these tasks.
+- **Weaknesses:** We acknowledged areas we have the less experience in: QA Testing, Consistent Documentation. We agree that we must be willing to learn these skills and will come to these situations with that mindset. We also will remind ourselves of our values, collaborate, and work together in these moments to accomplish these tasks.
 
-### Roles
+### Roles (*Temporary Until Project Released*)
 *Clearly specify roles within the team. Account for logistical responsibilities.*
-- **[Role]:** Abdurrahman Syed
-- **[Role]:** Andrew Le
-- **[Role]:** Andre Stransky
-- **[Role]:** Gurnoor Bola
-- **[Role]:** Jason Wang
-- **[Role]:** Justine Le
-- **[Role]:** Mani Schabani-Qassri
-- **[Role]:** Paul Montal
-- **[Role]:** Sahil Dalal
-- **[Role]:** Scott Pham
-- **[Role]:** Sophia Ali
+- **Backend Dev, Testing:** Abdurrahman Syed
+- **Lead, Frontend Dev, Secretary:** Andrew Le
+- **Frontend Dev, Design:** Andre Stransky
+- **Backend Dev, Testing:** Gurnoor Bola
+- **Full-Stack Dev:** Jason Wang
+- **Project Manager:** Justine Le
+- **Lead, Backend Dev:** Mani Schabani-Qassri
+- **Backend Dev, Design:** Paul Montal
+- **Backend Dev:** Sahil Dalal
+- **Frontend Dev, Github Admin:** Scott Pham
+- **Frontend Dev, Design:** Sophia Ali
 
 ---
 
