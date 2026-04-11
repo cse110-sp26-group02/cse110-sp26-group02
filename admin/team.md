@@ -1,6 +1,6 @@
 # SWEaters United (Team 02)
 
-> [A quote that represents the team]
+> "Together, we can do anything" - Parks & Rec
 
 ## Our Name
 *"SWEaters United"* represents our great group of hard working and well-coordinated software engineers (SWEs).
