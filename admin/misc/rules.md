@@ -20,21 +20,21 @@ This charter serves as a foundational document to guide our team's collaboration
 
 ### Personal Goals
 *What do you individually hope to achieve with this project? How can this project help your personal development?*
-- **[Personal Goal 1]:** Get better at Web Development
-- **[Personal Goal 2]:** Improve communication skills
-- **[Personal Goal 3]:** Achieve an excellent grade that reflects work
-- **[Personal Goal 4]:** Be on time
-- **[Personal Goal 5]:** Becoming more organized and structured
+- **Personal Goal 1:** Get better at Web Development
+- **Personal Goal 2:** Improve communication skills
+- **Personal Goal 3:** Achieve an excellent grade that reflects work
+- **Personal Goal 4:** Be on time
+- **Personal Goal 5:** Becoming more organized and structured
 
 ---
 
 ## 2. Core Values and Principles
 *What core values and guiding principles will our team uphold?*
-- **Value 1:** Availability and Reachbility
-- **Value 2:** Accountability
-- **Value 3:** Effort
-- **Value 4** Focus on Priorities
-- **Value 5** Open-Mindedness (allow for constructive criticism)
+- **Availability and Reachability:** We stay responsive in team channels and communicate early.
+- **Accountability:** We follow through on assigned work and update the team honestly on progress.
+- **Effort:** We bring consistent energy to meetings and assignments, supporting each other in the process.
+- **Focus on Priorities:** We align our work with immediate goals first and avoid distractions.
+- **Open-Mindedness:** We listen to different viewpoints, give respectful feedback, and allow for constructive criticism.
 
 ---
 
@@ -47,17 +47,17 @@ This charter serves as a foundational document to guide our team's collaboration
 
 ### Roles
 *Clearly specify roles within the team. Account for logistical responsibilities.*
-- **[Role]:** [Abdurrahman Syed]
-- **[Role]:** [Andrew Le]
-- **[Role]:** [Andre Stransky]
-- **[Role]:** [Gurnoor Bola]
-- **[Role]:** [Jason Wang]
-- **[Role]:** [Justine Le]
-- **[Role]:** [Mani Schabani-Qassri]
-- **[Role]:** [Paul Montal]
-- **[Role]:** [Sahil Dalal]
-- **[Role]:** [Scott Pham]
-- **[Role]:** [Sophia Ali]
+- **[Role]:** Abdurrahman Syed
+- **[Role]:** Andrew Le
+- **[Role]:** Andre Stransky
+- **[Role]:** Gurnoor Bola
+- **[Role]:** Jason Wang
+- **[Role]:** Justine Le
+- **[Role]:** Mani Schabani-Qassri
+- **[Role]:** Paul Montal
+- **[Role]:** Sahil Dalal
+- **[Role]:** Scott Pham
+- **[Role]:** Sophia Ali
 
 ---
 
