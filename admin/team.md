@@ -11,6 +11,8 @@
 
 ## Branding
 
+<img src="branding/SWEater_United_full.png" width="300">
+
 ### Mascot
 
 Our mascot is a heroic SWEat figure. This figure always has one flexed arm, matching our logo, in which sweat droplets fly off that reflect their sparks of effort. The arm symbolizes strength and unity while the droplets symbolize hustle and the "sweat = try-hard" mindset.
