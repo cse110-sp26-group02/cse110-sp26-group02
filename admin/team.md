@@ -19,8 +19,8 @@ Our mascot is a heroic SWEat figure. This figure always has one flexed arm, matc
 
 | Swatch | Color Name | Hex | Usage |
 | :---: | --- | --- | --- |
-| <span style="display:inline-block;width:1.1em;height:1.1em;background:#FF914D;border:1px solid #333;"></span> | SWEat Orange | `#FF914D` | Primary accent |
-| <span style="display:inline-block;width:1.1em;height:1.1em;background:#000000;border:1px solid #333;"></span> | Power Black | `#000000` | Primary text and outlines |
+| <img src="branding/ff914d.png" alt="#FF914D swatch" width="22"> | SWEat Orange | `#FF914D` | Primary accent |
+| <img src="branding/000000.png" alt="#000000 swatch" width="22"> | Power Black | `#000000` | Primary text and outlines |
 
 ## Our Team Values
 
