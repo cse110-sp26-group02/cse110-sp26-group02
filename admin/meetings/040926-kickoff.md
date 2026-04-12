@@ -60,9 +60,9 @@
         * Values
           * We value availability and taking accountability. Also giving our full efforts, being open to constructive criticism, and focusing on priorities. We also value organization and structure in our team.
         * Branding
-          * Brand Team: Jason, Andre
-          * Page: Scott
-          * Video: Mani, Paul
+          * Brand Team: Jason, Andre, Sahil
+          * Page: Scott, Sophia, Gurnoor, Abdurrahman
+          * Video: Mani, Paul, Justine, Andrew
 
 *   **Topic 2:** Group Contract (Strengths, Weaknesses, and Role Discussion)
     *   *Discussion:* We began talking about our strengths and weaknesses individually.
@@ -83,9 +83,9 @@
 
 
 
-    **Topic 4:** Group Bonding
+*   **Topic 4:** Group Bonding
     *   *Discussion:* We discussed the group bonding event that will take place sometime before Sunday
-        * Some game options our Among Us and Roblox
+        * Some game options are Among Us and Roblox
 
 
 *   **Topic 5:** Branding
