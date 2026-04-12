@@ -1,3 +1,3 @@
 # Description of Project ...
 
-[Team Page](admin/team.md)
+[Team Page](https://cse110-sp26-group02.github.io/cse110-sp26-group02/admin/team.html)
