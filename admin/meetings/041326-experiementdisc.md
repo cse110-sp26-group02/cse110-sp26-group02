@@ -1,10 +1,10 @@
 # Meeting Minutes
 
 **Team:** SWEaters United (Group 02)
-**Meeting Type:** [e.g., Brainstorming, Sprint Planning, Review]
-**Date:** [Date]
-**Start Time:** [Start Time]
-**Location:** [Location]
+**Meeting Type:** Discussion for One Arm AI Slot Machine Experiement
+**Date:** 4/13/26
+**Start Time:** 4:00
+**Location:** Hybrid (Zoom and Geisel)
 
 ---
 
