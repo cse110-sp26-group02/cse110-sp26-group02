@@ -57,7 +57,7 @@
        * TA's don't hold office hours unlike Professor. But free to reach them on slack.
     * *"When is project details released?"*
        * TBD but sometime after second warm-up (due this Wed).
-    * * *"What is on the midterm?"*
+   * * *"What is on the midterm?"*
        * TA can't speak on it specifically. But recommends just actively listening in lectures and engaging in material (which she sees we are doing by sitting in the front of class). Probably at least has some focus on "soft skills" (communication/team environment decisions).
 
 ---
