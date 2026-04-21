@@ -9,25 +9,24 @@
 
 ### Week 5
 
-* (<Name>) <Question>
+* (\<Name\>) \<Question\>
 
 ### Week 6
 
-* (<Name>) <Question>
+* (\<Name\>) \<Question\>
 
 ### Week 7
 
-* (<Name>) <Question>
+* (\<Name\>) \<Question\>
 
 ### Week 8
 
-* (<Name>) <Question>
+* (\<Name\>) \<Question\>
 
 ### Week 9
 
-* (<Name>) <Question>
+* (\<Name\>) \<Question\>
 
 ### Week 10
 
-* (<Name>) <Question>
-
+* (\<Name\>) \<Question\>
